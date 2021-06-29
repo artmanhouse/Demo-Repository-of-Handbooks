@@ -16,8 +16,8 @@ Clients, Agents and Prospects Can Download
 <h3>Two sets of pdf files for each guide</h3>
 
 <ul>
- <li>Full Brochure pdf: Includes a Cover and Team Page</li>
- <li>One Page pdf : Just Single Guide to Add to Brochure</li>
+ <li>ONE PNG FILE</li>
+ <li>ONE PDF FILE</li>
 </ul>
 <h3>How to Download</h3>
 
@@ -30,8 +30,6 @@ Laura Artman
 TEXT ORDERS TO: 1-760-898-7612
 
 M/Th – 10:00am til 4:00pm
-
-
 
 <b>License: The information contained in the guides are the property of Laura Artman</b>
 
